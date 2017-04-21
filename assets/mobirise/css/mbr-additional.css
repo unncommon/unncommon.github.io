@@ -7,6 +7,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -432,11 +434,11 @@ h6,
   color: #000000;
 }
 #menu-k .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
@@ -494,4 +496,16 @@ h6,
 #msg-box3-9 .lead P {
   font-family: 'Droid Sans', sans-serif;
   font-size: 17px;
+}
+#msg-box5-s H3 {
+  font-size: 30px;
+}
+#msg-box5-s P {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-r H3 {
+  font-size: 30px;
+}
+#msg-box5-r P {
+  font-family: 'Droid Sans', sans-serif;
 }
