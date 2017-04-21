@@ -149,7 +149,9 @@
               "color": "#000"
             },
             ".lead P": {
-              "font-size": "24px"
+              "font-size": "48px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             }
           },
           "_tags": [
@@ -177,7 +179,7 @@
             "showButton": false
           },
           "title": "MODERN STYLES",
-          "text": "<p>Delivering uncommon results on the web</p>",
+          "text": "<p>Your top-notch web crew</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -189,7 +191,7 @@
             ".lead P": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "15px"
+              "font-size": "17px"
             }
           },
           "_tags": [
@@ -217,7 +219,7 @@
             "showButton": false
           },
           "title": "MODERN STYLES",
-          "text": "<p><br>Delivering uncommon results on the web asdf asd f sdf asdf asdf asdf asdf asdf adsf asdf asdf asdf adsf asdf asd fasd fasd fa sdf asdf asdf asdf ahsdf iqweu noiqwuen oiqweuf oiqweubfoiq wuebfouqwbr fqukwbef oquwbef piqweubf oaiweubf oawiebhf auesbf oauweybf oauwybef oauybwef ouawbe fuoaywbef uaywbef iuawybefiuaybwef uawybef u oaybwef ouaybefwouaybwef&nbsp;</p>",
+          "text": "<p><br>The web is our playground and state-of-the-art tech are our tools. <br>We help our clients deliver uncommon results. <br>Our habitat is the online world.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]

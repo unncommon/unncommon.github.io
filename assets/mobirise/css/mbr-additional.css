@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -483,7 +484,8 @@ h6,
   color: #000;
 }
 #msg-box3-7 .lead P {
-  font-size: 24px;
+  font-size: 48px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #msg-box3-9 .mbr-section-title,
 #msg-box3-9 p {
@@ -491,5 +493,5 @@ h6,
 }
 #msg-box3-9 .lead P {
   font-family: 'Droid Sans', sans-serif;
-  font-size: 15px;
+  font-size: 17px;
 }
