@@ -9,6 +9,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 body,
 input,
 textarea,
@@ -481,6 +491,12 @@ h6,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-8 SMALL {
+  font-size: 22px;
+}
+#header3-8 H3 {
+  font-size: 60px;
+}
 #msg-box3-7 .mbr-section-title,
 #msg-box3-7 p {
   color: #000;
@@ -489,23 +505,123 @@ h6,
   font-size: 48px;
   font-family: 'Droid Sans', sans-serif;
 }
-#msg-box3-9 .mbr-section-title,
-#msg-box3-9 p {
+#content1-1f P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+}
+#content5-z .mbr-section-title,
+#content5-z p {
+  color: #fff;
+}
+#features4-19 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-19 .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features4-19 H4 {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+#features4-19 P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+}
+#msg-box3-1l .mbr-section-title,
+#msg-box3-1l p {
   color: #000;
 }
-#msg-box3-9 .lead P {
+#msg-box3-1l .lead P {
+  font-size: 48px;
   font-family: 'Droid Sans', sans-serif;
-  font-size: 17px;
+  color: #000000;
+  text-align: center;
 }
-#msg-box5-s H3 {
+#features4-28 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-28 .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features4-28 H4 {
+  font-family: 'Droid Sans', sans-serif;
   font-size: 30px;
+  text-align: center;
 }
-#msg-box5-s P {
+#features4-28 P {
+  text-align: center;
   font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
 }
-#msg-box5-r H3 {
-  font-size: 30px;
+#msg-box3-1n .mbr-section-title,
+#msg-box3-1n p {
+  color: #000;
 }
-#msg-box5-r P {
+#msg-box3-1n .lead P {
+  font-size: 48px;
   font-family: 'Droid Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#header3-2m .mbr-section-title,
+#header3-2m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2m SMALL {
+  font-size: 22px;
+}
+#header3-2m H3 {
+  font-size: 60px;
+}
+#msg-box3-2s .mbr-section-title,
+#msg-box3-2s p {
+  color: #000;
+}
+#msg-box3-2s .lead P {
+  font-size: 46px;
+  font-family: 'Droid Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box3-2p .mbr-section-title,
+#msg-box3-2p p {
+  color: #000;
+}
+#msg-box3-2p .lead P {
+  font-size: 46px;
+  font-family: 'Droid Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box3-2p .lead H3 {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+}
+#content1-2u P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+  color: #565656;
+}
+#buttons1-2o .btn {
+  font-size: 36px;
+}
+#msg-box3-2v .mbr-section-title,
+#msg-box3-2v p {
+  color: #000;
+}
+#msg-box3-2v .lead P {
+  font-size: 46px;
+  font-family: 'Droid Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box3-2v .lead H3 {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
 }
