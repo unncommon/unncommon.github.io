@@ -19,6 +19,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -568,6 +569,14 @@ h6,
   color: #000000;
   text-align: center;
 }
+#header3-2y .mbr-section-title,
+#header3-2y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2y H3 {
+  text-align: right;
+  color: #000000;
+}
 #header3-2m .mbr-section-title,
 #header3-2m .mbr-section-subtitle {
   text-align: center;
@@ -602,7 +611,7 @@ h6,
   font-family: 'Droid Sans', sans-serif;
   font-size: 18px;
 }
-#content1-2u P {
+#content1-2w P {
   text-align: center;
   font-family: 'Droid Sans', sans-serif;
   font-size: 18px;
@@ -610,6 +619,12 @@ h6,
 }
 #buttons1-2o .btn {
   font-size: 36px;
+}
+#content1-2u P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+  color: #c1c1c1;
 }
 #msg-box3-2v .mbr-section-title,
 #msg-box3-2v p {
